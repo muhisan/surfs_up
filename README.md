@@ -6,7 +6,7 @@ He is plannig to open an ice cream and surf store there, and he is interested in
 ensure his business is viable year-round.
 
 ## Results
-* ### june results description
+* ### June results description
 
 ![june](https://github.com/muhisan/surfs_up/blob/main/Resources/june%20temps%20image.png)
 * ### December results description
